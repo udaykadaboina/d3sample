@@ -1,0 +1,70 @@
+{
+    "name": "courses",
+    "children": [{
+        "name": "matlab",
+        "children": [{
+            "name": "Fundamentals",
+            "children": [{
+                "name": "MATLAB Fundamentals",
+                "size": 3938
+            }, {
+                "name": "MATLAB Programming Techniques",
+                "size": 3812
+            }, {
+                "name": "MATLAB Best Optimization Techniques",
+                "size": 6714
+            }, {
+                "name": "Interfacing MATLAB with C code",
+                "size": 743
+            }]
+        }, {
+            "name": "Advanced",
+            "children": [{
+                "name": "Deploying MATLAB Based Applications - .NET Edition",
+                "size": 3534
+            }, {
+                "name": "Building Interactive Applications in MATLAB",
+                "size": 5731
+            }, {
+                "name": "Deploying MATLAB Based Applications - Java Edition",
+                "size": 7840
+            }, {
+                "name": "MATLAB to C with MATLAB Coder",
+                "size": 5914
+            }, {
+                "name": "Parallel Computing with MATLAB",
+                "size": 3416
+            }]
+        
+        }]
+    }, {
+        "name": "simulink",
+        "children": [{
+            "name": "Simulink for System and Algorithm Modeling",
+            "size": 17010
+        }, {
+            "name": "Generating HDL Code from Simulink",
+            "size": 5842
+        }, {
+            "name": "Integrating Code with Simulink",
+            "size": 1759
+        }, {
+            "name": "Communication Systems Modeling with Simulink",
+            "size": 2165
+        }, {
+            "name": "Signal Processing with Simulink",
+            "size": 586
+        }, {
+            "name": "Physical Modeling of Electrical Power Systems with  SimPowerSystems",
+            "size": 3331
+        }, {
+            "name": "Simulink Model Management and Architecture",
+            "size": 772
+        }, {
+            "name": "Plysical Modeling of MultiDomain Systems with SimSpace",
+            "size": 3322
+        }]
+    
+    
+    }]
+}
